@@ -9,7 +9,7 @@
 
 .bannerBgImage{
     height: 100vh;
-    background:url("/images/laptop3.jpg");
+    background:url("../images/laptop3.jpg");
     background-size: cover;
     position: relative;
 }
